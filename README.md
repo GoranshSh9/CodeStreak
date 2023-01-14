@@ -1,2 +1,2 @@
-# Day 1
+# Code Streak
  Code Streak Day 1
